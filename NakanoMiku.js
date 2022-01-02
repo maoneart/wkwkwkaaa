@@ -544,9 +544,9 @@ khusus yang di buat oleh *Hermawan* Untuk Membantu Anda`,
 
 but = [
           { buttonId: `${prefix}store`, buttonText: { displayText: 'Store' }, type: 1 },
-          { buttonId: `${prefix}owner`, buttonText: { displayText: 'Owner' }, type: 1 }
-	 { buttonId: `${prefix}owner2`, buttonText: { displayText: 'Owner2' }, type: 1 }
-	  { buttonId: `${prefix}owner3`, buttonText: { displayText: 'Owner3' }, type: 1 }
+          { buttonId: `${prefix}owner`, buttonText: { displayText: 'Owner' }, type: 1 },
+	 { buttonId: `${prefix}owner2`, buttonText: { displayText: 'Owner2' }, type: 1 },
+	  { buttonId: `${prefix}owner3`, buttonText: { displayText: 'Owner3' }, type: 1 },
 	   { buttonId: `${prefix}owner4`, buttonText: { displayText: 'Owner4' }, type: 1 }
         ]
       //  sendButLocation(from, menu, fake, tamnel, but, {quoted: mek})
