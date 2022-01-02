@@ -545,6 +545,9 @@ khusus yang di buat oleh *Hermawan* Untuk Membantu Anda`,
 but = [
           { buttonId: `${prefix}store`, buttonText: { displayText: 'Store' }, type: 1 },
           { buttonId: `${prefix}owner`, buttonText: { displayText: 'Owner' }, type: 1 }
+	 { buttonId: `${prefix}owner`, buttonText: { displayText: 'Owner' }, type: 1 }
+	  { buttonId: `${prefix}owner`, buttonText: { displayText: 'Owner' }, type: 1 }
+	   { buttonId: `${prefix}owner`, buttonText: { displayText: 'Owner' }, type: 1 }
         ]
       //  sendButLocation(from, menu, fake, tamnel, but, {quoted: mek})
         sendButImage(from, menu, fake, tamnel, but, {quoted: mek})
