@@ -762,7 +762,7 @@ _Cicilan 3 Bulan_
 Rp. 370.000 /Bulan
 _Cicilan 6 Bulan_`
 
-ih10p = fs.readFileSync('./media/catalog/ih10p.jpg')
+sgm22 = fs.readFileSync('./media/catalog/sgm22.jpg')
 but = [
   { buttonId: `${prefix}bayar`, buttonText: { displayText: 'BAYAR' }, type: 1 },
   { buttonId: `${prefix}owner`, buttonText: { displayText: 'OWNER' }, type: 1 }
