@@ -772,7 +772,7 @@ but = [
 sendButImage(from, menu, ih10p, but)
 break
 
-case :'in10':
+case 'in10':
     menu = `*INFINIX NOTE10 6GB/64GB NFC*
 
 PILIH METODE CICILAN
