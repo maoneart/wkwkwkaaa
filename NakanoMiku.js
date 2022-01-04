@@ -655,9 +655,9 @@ case 'sgm13':
 
 PILIH METODE CICILAN
 Rp. 700.000 /Bulan
--Cicilan 3 Bulan_
+_Cicilan 3 Bulan_
 Rp. 400.000 /Bulan
--Cicilan 6 Bulan_`
+_Cicilan 6 Bulan_`
 
 sgm13 = fs.readFileSync('./media/catalog/sgm13.jpg')
 but = [
@@ -673,9 +673,9 @@ case 'sgta7l':
 
 PILIH METODE CICILAN
 Rp. 1.000.000 /Bulan
--Cicilan 3 Bulan_
+_Cicilan 3 Bulan_
 Rp. 550.000 /Bulan
--Cicilan 6 Bulan_`
+_Cicilan 6 Bulan_`
 
 sgta7l = fs.readFileSync('./media/catalog/sgta7l.jpg')
 but = [
@@ -691,9 +691,9 @@ case 'sga12':
 
 PILIH METODE CICILAN
 Rp. 1.000.000 /Bulan
--Cicilan 3 Bulan_
+_Cicilan 3 Bulan_
 Rp. 550.000 /Bulan
--Cicilan 6 Bulan_`
+_Cicilan 6 Bulan_`
 
 sga12 = fs.readFileSync('./media/catalog/sga12.jpg')
 but = [
@@ -709,9 +709,9 @@ case 'sgm22':
 
 PILIH METODE CICILAN
 Rp. 1.200.000 /Bulan
--Cicilan 3 Bulan_
+_Cicilan 3 Bulan_
 Rp. 610.000 /Bulan
--Cicilan 6 Bulan_`
+_Cicilan 6 Bulan_`
 
 sgm22 = fs.readFileSync('./media/catalog/sgm22.jpg')
 but = [
@@ -759,9 +759,9 @@ case 'ih10p':
 
 PILIH METODE CICILAN
 Rp. 630.000 /Bulan
--Cicilan 3 Bulan_
+_Cicilan 3 Bulan_
 Rp. 370.000 /Bulan
--Cicilan 6 Bulan_`
+_Cicilan 6 Bulan_`
 
 ih10p= fs.readFileSync('./media/catalog/ih10p.jpg')
 but = [
@@ -777,9 +777,9 @@ case 'in10':
 
 PILIH METODE CICILAN
 Rp. 1.080.000 /Bulan
--Cicilan 3 Bulan_
+_Cicilan 3 Bulan_
 Rp. 600.000 /Bulan
--Cicilan 6 Bulan_`
+_Cicilan 6 Bulan_`
 
 in10= fs.readFileSync('./media/catalog/in10.jpg')
 but = [
@@ -795,9 +795,9 @@ case 'ih11p':
 
 PILIH METODE CICILAN
 Rp. 710.000 /Bulan
--Cicilan 3 Bulan_
+_Cicilan 3 Bulan_
 Rp. 3900.000 /Bulan
--Cicilan 6 Bulan_`
+_Cicilan 6 Bulan_`
 
 ih11p = fs.readFileSync('./media/catalog/ih11p.jpg')
 but = [
